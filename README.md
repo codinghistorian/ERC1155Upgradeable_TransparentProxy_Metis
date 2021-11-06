@@ -1,3 +1,10 @@
+211106 16:03 note
+
+
+ERC1155Upgradeable using Transparent Project is deployed on Metis Testnet ChainID:666
+
+Contract Address of BibimbeatERC1155 is 0xaA9213B0cf4ff23bD9dAdD944c862Daf2707dBF8
+
 211106 11:11 note
 
 ERC20Upgradeable using Transparent Project is deployed on Metis Testnet ChainID:666
